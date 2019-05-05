@@ -11,7 +11,6 @@ def isPrime(n):
             return False
     return True
 
-<<<<<<< HEAD
 def factorial(n):
     '''Returns the factorial of a number'''
     if n == 0:
